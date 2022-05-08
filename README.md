@@ -2,6 +2,8 @@
 
 # weather-app
 
+Developed by Preethu M.
+
 ## What are included
 
 - Typescript
@@ -31,11 +33,9 @@ REACT_APP_API_KEY = \<Your Weatherbit API key\>
 
 `yarn test`
 
-The coverage for all files is 100%.
 
-![Screen Shot 2021-06-03 at 10 02 25 pm](https://user-images.githubusercontent.com/11530457/120642104-cea65a80-c4b7-11eb-8baa-cce1451aeac0.png)
 
-## A11y
+## Snap shot
 
 All key elements can be read with proper description with screen reader. You can use TAB key to navigate through the page.
 
